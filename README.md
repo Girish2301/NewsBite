@@ -1,4 +1,4 @@
-# 🚀 NewsSelect — AI-Powered News Summarization App
+# 🚀 NewsBite — AI-Powered News Summarization App
 
 An end-to-end, AI-powered web application for real-time, abstractive news summarization using a Seq2Seq LSTM model with Attention — integrated with Django backend, web scraping for live news, and a responsive frontend UI.
 
